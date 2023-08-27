@@ -9,6 +9,7 @@
 }
 html {
   font-family: Arial, Helvetica, sans-serif;
+   scroll-behavior: smooth;
 }
 .text-white {
   color: white !important;
