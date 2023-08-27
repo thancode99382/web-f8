@@ -116,9 +116,11 @@ html {
 
 #slider {
   position: relative;
-  margin-top: 46px;
-  padding-top: 45%;
-  background: url(assets/img/denxui.png) top center/ cover no-repeat;
+overflow: hidden;
+}
+#slider img{
+  width: 100%;
+  height: 714px;
 }
 #slider .text-content {
   color: rgb(255, 255, 255);
